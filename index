@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>jewelry</title>
+  <!-- <link rel="stylesheet" href="css/bootstrap.min.css">-->
+    <!--  <link rel="stylesheet" href="css/bootstrap.min.css">
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+       <link rel="stylesheet" type="text/css" href="css/Css.css">-->
+      <!-- <script src=”js/bootstrap.bundle.min.js”></script>
+     <script src=”js/bootstrap.min.js”></script>-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.rtl.min.css" integrity="sha384-DOXMLfHhQkvFFp+rWTZwVlPVqdIhpDVYT9csOnHSgWQWPX0v5MCGtjCJbY6ERspU" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+   <script src=”js/bootstrap.bundle.js”></script>
+
+
+</head>
+
+<body dir="rtl">
+
+<nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+        <img src="image/1.png" width="50" height="50" style="border-radius: 50%";>
+
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">خانه</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">تماس با ما</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled">درباره ما</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container-fluid">
+    <div class="row mt-3">
+        <div class="col-12 col-lg-6">
+            <p>
+                نیمه دوم سال ۱۳۹۳ برای ساختن تجربه‌ای ویژه از خرید طلا و جواهر ناب، کارمان را آغاز کردیم و سنجاق به لطف استقبال فوق‌العاده همراهانش، هرروز بزرگتر و بزرگتر شد، در این مسیر آموختیم که برای قد کشیدن، باید ثانیه به ثانیه بهتر شویم و با تمام وجود درک کردیم که طلای ناب همان حسی است که پس از خلق یک شاهکار تجربه‌اش می‌کنیم.
+
+                همان حسی که همراهانمان پس از خرید طلاهای دست‌ساز سنجاق درباره‌اش حرف می‌زنند؛ همان حسی که هرروز ما را نونفس و تازه پشت میزهایمان در دفتر مرکزی، کارگاه یا فروشگاه‌های سنجاق می‌نشاند و تلاطم و شوق طلایی ماندن را در ما زنده نگه می‌دارد.
+
+                از روزی که این سفر طلایی را آغاز کردیم به دنبال آن بودیم تا از پیوند هنر تمام‌عیار با طلای ناب، تجربه‌ای بسازیم که معنای واقعی زندگی را به لحظه لحظه زیستن سنجاق کند. نوآوری، خلاقیت و جسارت را به کارمان سنجاق کردیم تا لحظه‌ای از خود عقب نمانیم و با افتخار، شایسته دست‌های الهام‌بخش و قلب‌های مهربان همراهانمان باشیم.
+
+                امروز با بیش از ده فروشگاه فعال، با همان شور و شوق روزهای اول و به سادگی سنجاق، این سفر طلایی را ادامه می‌دهیم تا با راه‌اندازی شعب بیشتر در تمام کشور، تجربه دلچسبی که از جواهرات دست‌ساز با طراحی‌های منحصر به سنجاق به دست می‌آید را برای افراد بیشتری به ارمغان بیاوریم و از هنر و طلای ناب، تجربه‌ای دلچسب را به لحظه‌ لحظه زندگی سنجاق کنیم.
+            </p>
+        </div>
+        <div class="col-12 col-lg-6">
+            <img src="image/3.jpg" class="img-fluid" >
+        </div>
+    </div>
+
+    <div class="row mt-5">
+
+        <div class="col-12 col-md-6 col-xl-3" >
+            <img src="image/5.jpeg" class="img-fluid img-thumbnail"  width="400"height="200">
+            <P>کندو  </P>
+        </div>
+        <div class="col-12 col-md-6 col-xl-3" >
+            <img src="image/6.jpeg" class="img-fluid img-thumbnail" width="400"height="200">
+            <P>گیسو</P>
+        </div>
+        <div class="col-12 col-md-6 col-xl-3" >
+            <img src="image/7.jpeg" class="img-fluid img-thumbnail"  width="400"height="200" >
+            <P>فرکانس</P>
+        </div>
+        <div class="col-12 col-md-6 col-xl-3" >
+            <img src="image/8.jpeg" class="img-fluid img-thumbnail" width="400"height="200">
+            <P>چالوس</P>
+        </div>
+
+    </div>
+<div class="row mt-5">
+    <div class="col-12 col-lg-4" >
+        <h class="fw-bold">دستبند طلا با طرح‌های زیبا و مینیمال برای استفاده روزمره</h>
+        <P>دستبند طلا یکی از زیباترین و پرطرفدارترین اکسسوری‌های طلاست که همیشه برای مخاطبانش، جذاب بوده است. حال شاید شما به دنبال خرید دستبند زیبا و خاص می‌گردید که برای استفاده روزانه مناسب باشند و شما بتوانید هر روز و همیشه آن را در دست داشته باشید. اصولاً دستبندهایی که برای استفاده روزانه مناسب هستند، دستبندها ظریف و مینیمال هستند.
+
+            دستبندهای مینیمال، آن دسته از دستبندهایی هستند که ویژگی اصلی‌شان، ساده بودنشان است؛ یعنی با مدل‌ها و طراحی‌های پیچیده تولید نشده‌اند و بسیار ظریف هستند و با گذشت زمان هیچ وقت از مُد نمی‌افتند و همواره زیبایی و خاص بودن خود را حفظ خواهند کرد…!
+
+            پس با سنجاق همراه باشید تا شما با انواع دستبندهای طلا مینیمال و مناسب استفاده روزانه آشنا کنیم.</P>
+    </div>
+    <div class="col-12 col-lg-4" >
+        <h class="fw-bold">مقایسه‌ی گردنبند طلا سفید و زرد: کدام رنگ برای پوشیدن در مجالس مناسب‌تر است؟</h>
+        <P>گردنبند طلا یکی از اصلی‌ترین اکسسوری‌های طلا است که بین دوست داران طلا بسیار محبوب است. حال شاید شنیده باشید که می‌گویند خرید گردنبند طلا سفید و گردنبند طلا زرد؛ و به طور کلی طلا سفید و طلا زرد.
+
+            شاید برای شما هم سوال شده باشد که گردنبند طلای زرد با گردنبند طلای سفید چه تفاوتی با هم دارند و برای استفاده و نگهداری، کدام بهتر است؟! این سوال قطعاً سوال مهمی است که موضوع مقاله امروز ما است. ما همه گردنبند طلای زرد و گردنبند طلای سفید را از روی رنگ تشخیص می‌دهیم و شاید دقیق ندانیم، به غیر از تفاوت در رنگ چه تفاوت‌های دیگری دارد؟!
+
+            پس، امروز با سنجاق در این مقاله همراه باشید.</P>
+    </div>
+    <div class="col-12 col-lg-4" >
+        <h class="fw-bold">طرح‌های انگشتر طلا مناسب برای خانم های بالای ۴۰ سال</h>
+        <p>انگشتر طلای یازده، یکی از انگشترهای جذاب گالری طلای سنجاق است که بسیار چشم گیر است و برای خانم‌های شیک پوش بالای ۴۰، بسیار مناسب است. این انگشتر طلا مثل عدد ۱۱ است و همین شباهت سبب شده است که به نام معروف شود. این انگشتر طلا، در نیو کالکشن رینگ‌های گالری طلای سنجاق، رونمایی شد. وزن حدوی این انگشتر: ۱۱ گرم می‌باشد.
+
+            این انگشتر طلا، به دلیل قطور بودن روی آن، برای خانم‌های بالای ۴۰ سال بسیار ویژه و مناسب است و باید بگوییم در دست‌های آن‌ها بسیار جلوه می‌کن</p>
+    </div>
+</div>
+</div>
+</body>
+</html>
+   
